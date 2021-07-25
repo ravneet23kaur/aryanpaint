@@ -1,1 +1,1 @@
-# aryanpaint
+# paint
